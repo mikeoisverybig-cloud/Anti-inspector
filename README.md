@@ -28,6 +28,7 @@
 2.  找到模块目录下的 apps.txt 文件。
 3.  在里面填入你想“防查”的 App 的包名（一行一个）。
       - 示例
+
         cn.soulapp.android
         com.p1.mobile.putong
         com.tangxin.vlog
