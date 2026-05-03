@@ -29,9 +29,11 @@
 3.  在里面填入你想“防查”的 App 的包名（一行一个）。
       - 示例
 
-        cn.soulapp.android
-        com.p1.mobile.putong
-        com.tangxin.vlog
+        cn.so**app.android
+
+        com.p*.mobile.pu*ong
+
+        com.ta**xin.vl*g
 4.  保存，遇到长辈查岗或对象突击时，行云流水地搓出按键连招即可。
 
 (注：解冻应用目前需要各位自己使用终端命令/或者用其他解冻工具恢复，毕竟本模块只管“杀”不管“埋”，保命第一！)
